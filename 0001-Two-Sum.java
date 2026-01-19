@@ -1,5 +1,5 @@
 // Problem: Two Sum
-// Performance: 2ms (Beats 99.14%)
+// Performance: 2ms
 
 import java.util.HashMap;
 import java.util.Map;
